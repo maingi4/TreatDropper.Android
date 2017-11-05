@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\SilosTreat\aws-sdk-android-samples-master\aws-sdk-android-samples-master\AndroidPubSub\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snehag\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-core\2.2.22\c6789de00db9d1f93faec881fa0c1f5960fb8a15\aws-android-sdk-core-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="E:\SilosTreat\aws-sdk-android-samples-master\aws-sdk-android-samples-master\AndroidPubSub\build\intermediates\pre-dexed\debug\aws-android-sdk-core-2.2.22_804c0d0c41c5b835912cc2ad92bbfffe58f97c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snehag\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-iot\2.2.22\f0753db8c9be1b837d4922a342e506d51c6bf924\aws-android-sdk-iot-2.2.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f0753db8c9be1b837d4922a342e506d51c6bf924">
+        <dex dex="E:\SilosTreat\aws-sdk-android-samples-master\aws-sdk-android-samples-master\AndroidPubSub\build\intermediates\pre-dexed\debug\aws-android-sdk-iot-2.2.22_e160e4cb9c12e51bac9a37518dd0b173ccde982e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\snehag\.gradle\caches\modules-2\files-2.1\org.eclipse.paho\org.eclipse.paho.client.mqttv3\1.1.0\89d827ffa47c241f2627421ef1d6c7a8c207a341\org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="E:\SilosTreat\aws-sdk-android-samples-master\aws-sdk-android-samples-master\AndroidPubSub\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.1.0_82a54b5c4a6a7cff20f5cac7c31894f1d46b2f1a.jar" />
+    </item>
+
+</items>

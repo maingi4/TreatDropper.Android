@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\SilosTreat\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\SilosTreat\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\res\\layout\\activity_main.xml"
+    }
+]

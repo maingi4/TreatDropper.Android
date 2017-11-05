@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\SilosTreat\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "E:\\SilosTreat\\aws-sdk-android-samples-master\\aws-sdk-android-samples-master\\AndroidPubSub\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    }
+]
